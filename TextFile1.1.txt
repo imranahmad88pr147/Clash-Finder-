@@ -1,0 +1,10 @@
+1,Introduction to Computer and Technology,CS101, CS,BCS-1A,Prof.Hamza,Tuesday,10:00AM-11:20AM,CS_3
+2,Calculus I,MATH201,SE,BSE-3B,Prof Furqan,Friday,10:00AM-11:20AM,CS-9
+3,English Composition,MATH202,DS,BDS-3A,Prof Furqan,Friday,10:00AM-11:20AM,CS-9
+4,Communication and Presentation skills,ECC122,CS,BCS-3A,Prof Hajra,Thursday,10:00AM-11:30AM,CS-4
+5,Physics ,PHYS301,SE,BSE-5A,Prof Sheroz,Friday,01:00PM-02:30PM,CS-6
+6,ICT,CS101,CS,BCS-1A,Prof.Hamza,Thursday,10:00AM-11:20AM,CS-7
+7,HCI,CS101,CS,BCS-1A,Prof.Hamza,Thursady,10:00AM-11:20AM,CS-3
+8,SRE,CS101,SE,BSE-3A,Prof Hajra,Thursday,10:00AM-11:30AM,CS-8
+9,OOP-Lab,CS101,SE,BSE-3A,Prof.Ali,Monday,9:00AM-10:20AM,CSLAB1
+10,OOPLab,CS101,SE,BSE-3A,Prof.Ali,Monday,9:00AM-10:20AM,CSLAB1

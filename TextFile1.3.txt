@@ -1,0 +1,100 @@
+1,Operating Systems,CS2006,CS,BCS-6A,Ms. Namra Absar,Monday,08:30AM-09:50AM,Seminar Hall
+2,Theory of Automata,CS3005,CS,BCS-6B,Mr. Irtaza Muzamil,Monday,10:00AM-11:20AM,Seminar Hall
+3,Business Process Engineering,SE4032,SE,BSE-4C,Mr. Jawad Cheema,Monday,11:30AM-12:50PM,Seminar Hall
+4,Probability and Statistics,MT2005,CS,BCS-4M,Mr. Azaz Ahmad,Monday,9:30AM-10:50AM,CS-2
+5,Object Oriented Programming,CS1004,DS,BDS-2B,Dr. Mubashar Baig,Monday,08:30AM-09:50AM,CS-2
+6,Software Engineering,CS3009,CS,BCS-6A,Dr. Zeeshan Ali Rana,Monday,10:00AM-11:20AM,CS-2
+7,Database Systems,CS2005,CS,BCS-4C,Mr. Muhammad Ishaq Raza,Monday,11:30AM-12:50PM,CS-2
+8,Comp. Organization and Assembly Lang,EE2003,CS,BCS-4M,Dr. Ammar Haider,Monday,01:00PM-02:20PM,CS-2
+9,Database Systems,CS2005,CS,BCS-4H,Mr. Raza,Monday,02:30PM-03:50PM,CS-2
+10,Design Patterns,CS5048 - Human Resource Management,MSP-2A,CS,Dr. Ali Afzal Malik,Monday,05:30PM-08:20PM,CS-2
+11,Introduction to the Internet of Things,IO4041,CS,BCS-8A,Dr. Arshad Ali,Monday,08:30AM-09:50AM,CS-3
+12,Data Structures,CS2001,CS,BCS-4M,Mr. Fraz Yousaf,Monday,10:00AM-11:20AM,CS-3
+13,Object Oriented Programming,CS1004,DS,BDS-2B,Dr. Mubashar Baig,Monday,08:30AM-09:50AM,CS-3
+14,Object Oriented Programming,CS1004,CS,BCS-2B,Dr. Saira Karim,Monday,01:00PM-02:20PM,CS-3
+15,Database Systems,CS2005,CS,BDS-4B,Ms. Sana Fatima,Monday,02:30PM-03:50PM,CS-3
+16,Theory of Automata,CS3005,CS,BCS-6C,Mr. Hamadul Qudous,Monday,04:00PM-05:20PM,CS-3
+17,Management and Organizational Behaviour,MG4006,MSP-2A,CS,Dr. Fahmeed Idrees,Monday,05:30PM-08:20PM,CS-3
+18,Database Systems,CS2005,CS,BCS-4G,Ms. Aleena Ahmad,Monday,10:00AM-11:20AM,CS-4
+19,Introduction to Computer and Technology,CS101,CS,BCS-1A,Prof.Hamza,Thursday,10:00AM-11:20AM,CS_3
+20,Database Systems,CS2005,CS,BCS-4E,Mr. Uzair Naqvi,Monday,01:00PM-02:20PM,CS-4
+21,Discrete Structure,CS1005,SE,BSE-2B,Ms. Rubab Anam,Monday,02:30PM-03:50PM,CS-4
+22,Professional Practices in IT,CS4001,CS,BCS-8A,Mr. Waqas Manzoor,Monday,04:00PM-05:20PM,CS-4
+23,Information Retrieval,CS4051,CS,BCS-8B,Dr. Asma Naseer,Monday,08:30AM-09:50AM,CS-5
+24,Calculus I,MATH201,SE,BSE-3B,Prof Furqan,Friday,10:00AM-11:20AM,CS-9
+25,Digital Logic Design,EE1005,CS,BDS-2C,Ms. Tazeem Haider,Monday,11:30AM-12:50PM,CS-5
+26,Operating Systems,CS2006,CS,BCS-4G,Mr. Saifullah Tanvir,Monday,01:00PM-02:20PM,CS-5
+27,Marketing Management,MG1002,CS,BDS-6A,Mr. Saqib Bhatti,Monday,02:30PM-03:50PM,CS-5
+28,Object Oriented Programming,CS1004,CS,BCS-2E,Ms. Samin Iftikhar,Monday,04:00PM-05:20PM,CS-5
+29,Operating Systems,CS2006,CS,BCS-4C,Dr. Zeeshan Ali Khan,Monday,08:30AM-09:50AM,CS-6
+30,Operating Systems,CS2006,CS,BCS-4D,Dr. Zeeshan Ali Khan,Monday,10:00AM-11:20AM,CS-6
+31,English Composition,MATH202,DS,BDS-3A,Prof Furqan,Friday,10:00AM-11:20AM,CS-9
+32,Information Retrieval,CS4051,BDS,BDS-6B,Dr. Maryam Bashir,Monday,01:00PM-02:20PM,CS-6
+33,Communication and Presentation skills,ECC122,CS,BCS-3A,Prof Hajra,Thursday,10:00AM-11:30AM,CS-4
+34,Artificial Intelligence,AI2002,CS,BCS-6B,Dr. Hajra Waheed,Monday,04:00PM-05:20PM,CS-6
+35,Object Oriented Programming,CS1004,CS,BCS-2J,Ms. Maham Naeem,Monday,08:30AM-09:50AM,CS-7
+36,Operating Systems,CS2006,CS,BCS-4A,Dr. Rana Asif Rehman,Monday,10:00AM-11:20AM,CS-7
+37,Physics ,PHYS301,SE,BSE-5A,Prof Sheroz,Friday,01:00PM-02:30PM,CS-6
+38,OOP-Lab,CS101,CS,BSE-3A,Prof.Ali,Monday,9:00AM-10:20AM,CSLAB1
+39,OOPLab,CS101,CS,BSE-3A,Prof.Ali,Monday,9:00AM-10:20AM,CSLAB1
+40,Web Programming,CS4032,CS,BCS-8B,Dr. Muhammad Adnan,Monday,04:00PM-05:20PM,CS-7
+41,Intro. To Software Engineering,SE1001,BSE,BSE-2B,Ms. Anosha Khan,Monday,08:30AM-09:50AM,CS-9
+42,Intro. To Software Engineering,SE1001,BSE,BSE-2A,Ms. Anosha Khan,Monday,10:00AM-11:20AM,CS-9
+43,Object Oriented Programming,CS1004,BSE,BSE-2A,Ms. Arooj Khalil,Monday,11:30AM-12:50PM,CS-9
+44,Object Oriented Programming,CS1004,CS,BCS-2G,Mr. Mubasher Hussain,Monday,01:00PM-02:20PM,CS-9
+45,Object Oriented Programming,CS1004,CS,BCS-2F,Mr. Mubasher Hussain,Monday,02:30PM-03:50PM,CS-9
+46,Database Systems,CS2005,CS,BCS-4A,Dr. Zareen Alamgir,Monday,08:30AM-09:50AM,CS-10
+47,Database Systems,CS2005,CS,BCS-4B,Dr. Zareen Alamgir,Monday,10:00AM-11:20AM,CS-10
+48,Software for Mobile Devices,CS4039,CS,BCS-8A,Ms. Aliya,Monday,11:30 AM - 12:50 PM,CS-6
+49,Information Retrieval,CS4051,CS,BDS-6B,Dr. Maryam Bashir,Monday,01:00 PM - 02:20 PM,CS-6
+50,Operating Systems,CS2006,CS,BCS-4F,Mr. Saifullah Tanvir,Monday,02:30 PM - 03:50 PM,CS-6
+51,Artificial Intelligence,AI2002,CS,BCS-6B,Dr. Hajra Waheed,Monday,04:00 PM - 05:20 PM,CS-6
+52,Object Oriented Programming,CS1004,CS,BCS-2J,Ms. Maham Naeem,Monday,08:30 AM - 09:50 AM,CS-7
+53,Operating Systems,CS2006,CS,BCS-4A,Dr. Rana Asif Rehman,Monday,10:00 AM - 11:20 AM,CS-7
+54,Introduction to the Internet of Things,IO4041,CS,BCS-8A,Dr. Arshad Ali,Monday,11:30 AM - 12:50 PM,CS-7
+55,Data Structures,CS2001,CS,BCS-4N,Mr. Samman Ashraf,Monday,01:00 PM - 02:20 PM,CS-7
+56,Comp. Organization and Assembly Lang,EE2003,CS,BCS-4N,,BS,CS,CS,Core,False,Lab(CS-2B),Saturday,08:30,11:20
+57,Software Design and Architecture,SE2002,SE,BSE-4C,Ms. Hina Iqbal,BS,SE,CS,,False,Lab(CS-3),Saturday,08:30,11:20
+58,Software for Mobile Devices,CS4039,CS,BCS-8A,Ms. Aliya,Monday,11:30 AM - 12:50 PM,CS-6
+59,Information Retrieval,CS4051,CS,BDS-6B,Dr. Maryam Bashir,Monday,01:00 PM - 02:20 PM,CS-6
+60,Computer Networks,CS3001,CS,BCS-6C,Ms. Umm-e Ammara,BS,CS,CS,Core,False,Lab(CS-2A),Saturday,08:30,11:20
+61,Computer Networks,CS3001,CS,BCS-6A,Mr. Nauman Muazzam,BS,CS,CS,Core,False,Lab(CS-2A),Saturday,11:30,14:20
+62,Computer Networks,CS3001,CS,BCS-6B,Mr. Nauman Muazzam,BS,CS,CS,Core,False,Lab(CS-2A),Saturday,14:30,17:20
+63,Data Structures,CS2001,CS,BCS-4N,Mr. Samman Ashraf,BS,CS,CS,Core,False,Lab(CS-2B),Saturday,08:30,11:20
+64,Comp. Organization and Assembly Lang,EE2003,CS,BCS-4N,,BS,CS,CS,Core,False,Lab(CS-2B),Saturday,14:30,17:20
+65,Software Design and Architecture,SE2002,SE,BSE-4C,Ms. Hina Iqbal,BS,SE,CS,,False,Lab(CS-3),Saturday,08:30,11:20
+66,Computer Networks,CS3001,CS,BCS-6C,Ms. Umm-e Ammara,,,CS,,False,Lab(CS-8),Friday,10:00,12:50
+67,Data Mining,DS3002,DS,BDS-6A,Ms. Mamoona Majid,BS,DS,CS,Core,False,Lab(CS-8),Friday,14:30,17:20
+68,Database Systems,CS2005,CS,BSE-4B,Ms. Aleena Ahmad,BS,SE,CS,,False,Lab(CS-9),Friday,10:00,12:50
+69,Operating Systems,CS2006,CS,BCS-6A,Ms. Namra Absar,BS,CS,CS,Core,False,Lab(CS-9),Friday,14:30,17:20
+70,Digital Logic Design Lab,EL1005,CS,BDS-2C,Ms. Tazeem Haider,Monday,11:30 AM - 12:50 PM,CS-5
+71,Operating Systems,CS2006,CS,BCS-4G,Mr. Saifullah Tanvir,Monday,01:00 PM - 02:20 PM,CS-5
+72,Marketing Management,MG1002,CS,BDS-6A,Mr. Saqib Bhatti,Monday,02:30 PM - 03:50 PM,CS-5
+73,Object Oriented Programming,CS1004,CS,BCS-2E,Ms. Samin Iftikhar,Monday,04:00 PM - 05:20 PM,CS-5
+74,Operating Systems,CS2006,CS,BCS-4C,Dr. Zeeshan Ali Khan,Monday,08:30 AM - 09:50 AM,CS-6
+75,Operating Systems,CS2006,CS,BCS-4D,Dr. Zeeshan Ali Khan,Monday,10:00 AM - 11:20 AM,CS-6
+76,English Composition,MATH202,DS,BDS-3A,Prof Furqan,Friday,10:00 AM - 11:20 AM,CS-9
+77,Information Retrieval,CS4051,BDS, BDS-6B,Dr. Maryam Bashir,Monday,01:00 PM - 02:20 PM,CS-6
+78,Communication and Presentation skills,ECC122,CS,BCS-3A,Prof Hajra,Thursday,10:00 AM - 11:30 AM,CS-4
+79,Artificial Intelligence,AI2002,CS,BCS-6B,Dr. Hajra Waheed,Monday,04:00 PM - 05:20 PM,CS-6
+80,Object Oriented Programming,CS1004,CS,BCS-2J,Ms. Maham Naeem,Monday,08:30 AM - 09:50 AM,CS-7
+81,Operating Systems,CS2006,CS,BCS-4A,Dr. Rana Asif Rehman,Monday,10:00 AM - 11:20 AM,CS-7
+82,Physics ,PHYS301,SE,BSE-5A,Prof Sheroz,Friday,01:00 PM - 02:30 PM,CS-6
+83,OOP-Lab,CS101,CS,BSE-3A,Prof.Ali,Monday,09:00 AM - 10:20 AM,CSLAB1
+84,OOPLab,CS101,CS,BSE-3A,Prof.Ali,Monday,09:00 AM - 10:20 AM,CSLAB1
+85,Web Programming,CS4032,CS,BCS-8B,Dr. Muhammad Adnan,Monday,04:00 PM - 05:20 PM,CS-7
+86,Intro. To Software Engineering,SE1001,BSE,BSE-2B,Ms. Anosha Khan,Monday,08:30 AM - 09:50 AM,CS-9
+87,Intro. To Software Engineering,SE1001,BSE,BSE-2A,Ms. Anosha Khan,Monday,10:00 AM - 11:20 AM,CS-9
+88,Object Oriented Programming,CS1004,BSE, BSE-2A,Ms. Arooj Khalil,Monday,11:30 AM - 12:50 PM,CS-9
+89,Object Oriented Programming,CS1004,CS,BCS-2G,Mr. Mubasher Hussain,Monday,01:00 PM - 02:20 PM,CS-9
+90,Object Oriented Programming,CS1004,CS,BCS-2F,Mr. Mubasher Hussain,Monday,02:30 PM - 03:50 PM,CS-9
+91,Database Systems,CS2005,CS,BCS-4A,Dr. Zareen Alamgir,Monday,08:30 AM - 09:50 AM,CS-10
+92,Database Systems,CS2005,CS,BCS-4B,Dr. Zareen Alamgir,Monday,10:00 AM - 11:20 AM,CS-10
+93,Theory of Automata,CS3005,CS,BCS-6A,Ms. Namra Absar,Monday,11:30 AM - 12:50 PM,Seminar Hall
+94,Business Process Engineering,SE4032,SE,BSE-4C,Mr. Jawad Cheema,Monday,01:00 PM - 02:20 PM,Seminar Hall
+95,Probability and Statistics,MT2005,CS,BCS-4M,Mr. Azaz Ahmad,Monday,9:30 AM - 10:50 AM,CS-2
+96,Object Oriented Programming,CS1004,DS,BDS-2B,Dr. Mubashar Baig,Monday,08:30 AM - 09:50 AM,CS-2
+97,Software Engineering,CS3009,CS,BCS-6A,Dr. Zeeshan Ali Rana,Monday,10:00 AM - 11:20 AM,CS-2
+98,Database Systems,CS2005,CS,BCS-4C,Mr. Muhammad Ishaq Raza,Monday,11:30 AM - 12:50 PM,CS-2
+99,Comp. Organization and Assembly Lang,EE2003,CS,BCS-4M,Dr. Ammar Haider,Monday,01:00 PM - 02:20 PM,CS-2
+100,Database Systems,CS2005,CS,BCS-4H,Mr. Raza,Monday,02:30 PM - 03:50 PM,CS-2
