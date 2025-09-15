@@ -1,6 +1,6 @@
 # Timetable Clash Finder
 
-It is developed used C# and Windows forms.
+It is developed using C# and Windows forms.
 
 ## Installation
 
